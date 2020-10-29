@@ -32,7 +32,7 @@ function Downloads() {
 
   return (
     <>
-      <h1>Downloads</h1>
+      <h1>Downloads 📥</h1>
 
       <form onSubmit={add}>
         <Input
